@@ -202,6 +202,9 @@ mysqli_close($conn);
                     </div>
                     Reports
                 </a>
+                <a href="ai.php" class="flex items-center px-6 py-3 text-slate bg-primary/10">
+                    <i class="ri-robot-line mr-3"></i> AI Analysis
+                </a>
                 <a href="settings.php" class="flex items-center px-4 md:px-6 py-2 md:py-3 text-slate hover:bg-gray-50">
                     <div class="w-5 h-5 flex items-center justify-center mr-2 md:mr-3">
                         <i class="ri-settings-3-line"></i>
